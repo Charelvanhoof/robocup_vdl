@@ -1,0 +1,38 @@
+<annotation>
+	<folder>20201014_goalpictures</folder>
+	<filename>3dsense_2020_10_14__22_06_41_color.jpg</filename>
+	<path>C:\Users\chare\Google Drive\Robotsports\Robotsports_imagehub\20201014_goalpictures\3dsense_2020_10_14__22_06_41_color.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goalpost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>143</ymin>
+			<xmax>313</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>goalpost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>138</ymin>
+			<xmax>379</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
